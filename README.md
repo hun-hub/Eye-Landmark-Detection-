@@ -25,3 +25,29 @@
 
 눈 영역 이미지나 영상에 대해 checkpoint_20.pth.tar의 가중치를 사용해 Eye keypoints detection을 실행하면 된다. 
 Eye-Landmark-Detection-main/test_metric.ipynb 에 예시로 구현하였다. 
+
+## 👨‍👨‍👦 Developer & Contribution
+
+**Developer** 
+
+- Seung Gun Lee
+
+- Yeong Je Park
+
+- Suk Hun Ko (me)
+
+
+**Contribution (me)** 
+
+
+- 적외선 눈 영상 프레임 단위로 이미지 변환 및 Generator를 통한 rgb 눈 이미지 데이터 셋 구축 
+
+- 이미지 특성을 고려한 loss function 설계 ( Adaptive Wing loss, MSE ...etc.)
+
+- task에 적절한 base model 선정 및 stacked hourglass networks (base model) 최적의 stack 도출 
+
+
+
+
+
+
