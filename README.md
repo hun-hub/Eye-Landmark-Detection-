@@ -15,4 +15,13 @@
 1. IREYE4TASK (적외선 눈 영상 => 이미지로 가공)
 2. UnityEyes – a tool for rendering eye images ( 눈 각도와 같은 Parameter 조정하면서 rgb 눈 이미지 generating)
 
-## 
+## 💻 Run a Program
+- **Train** 
+
+학습을 진행하고 싶으면, 다음과 같은 폴더 경로를 따라, 상황에 맞게 argument를 조정하며 학습을 진행하면 된다.
+폴더 경로: Eye-Landmark-Detection-main / train_mpii.py
+
+- **Program operation**
+
+눈 영역 이미지나 영상에 대해 checkpoint_20.pth.tar의 가중치를 사용해 Eye keypoints detection을 실행하면 된다. 
+Eye-Landmark-Detection-main/test_metric.ipynb 에 예시로 구현하였다. 
