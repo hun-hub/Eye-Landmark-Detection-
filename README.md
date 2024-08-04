@@ -1,5 +1,5 @@
 # 👁 Eye Landmark Detection  
-
+"Optimized Stacked Hourglass Networks for Efficient Eye Landmark Detection," Engineering Application of Artificial Intelligence
 
 
 ### 눈 단일 영역 이미지를 대상으로 Eye keypoints (동공, 홍채 등) 탐지하는 모델 
