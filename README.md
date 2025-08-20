@@ -30,11 +30,12 @@ Eye-Landmark-Detection-main/test_metric.ipynb 에 예시로 구현하였다.
 
 **Developer** 
 
+- Suk Hun Ko (me)
+
 - Seung Gun Lee
 
 - Yeong Je Park
 
-- Suk Hun Ko (me)
 
 
 **Contribution (me)** 
